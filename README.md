@@ -1,2 +1,2 @@
 # bpaste
-System tray background utility for Windows to paste clipboard contents with `Ctrl+B` when clipboard sharing is otherwise unavailable
+bpaste is a system tray background utility for Windows that allows you to "paste" with `Ctrl+B` by auto-typing the contents of your clipboard, useful in situations where clipboard sharing is otherwise unavailable
